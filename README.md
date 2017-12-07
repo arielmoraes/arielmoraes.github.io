@@ -1,2 +1,0 @@
-# arielmoraes.github.io
-blog
