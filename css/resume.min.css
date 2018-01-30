@@ -16,5 +16,10 @@
 
     section.resume-section {
         border-bottom: 0 !important;
+        min-height: 100vh;
+    }
+    
+    section.resume-section .resume-item .resume-date {
+      min-width: 18rem; 
     }
 }
